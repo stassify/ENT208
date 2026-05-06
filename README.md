@@ -1,7 +1,10 @@
-# ENT208
+# ENT208 
+
 This is XJTLU ENT208 Project from *Session3-Group2*. 
 Our project name is **Campus Market**, which is a mobile web platform for XJTLU students to buy, sell, and exchange second‑hand goods and food items through offline meet‑ups on campus.
+
 ---
+
 ## Files in this folder 
 
 | File | What it is | 
@@ -19,5 +22,5 @@ Link: <https://www.miaoda.cn/projects/app-astq64ofw83l>
 
 Thanks.
 
-##Copyright 
+## Copyright 
 © 2026 Campus Marketplace. All rights reserved.
