@@ -1,5 +1,7 @@
 # ENT208 
 
+## Welcome!⭐
+
 This is XJTLU ENT208 Project from *Session3-Group2*. 
 Our project name is **Campus Market**, which is a mobile web platform for XJTLU students to buy, sell, and exchange second‑hand goods and food items through offline meet‑ups on campus.
 
@@ -15,7 +17,7 @@ Our project name is **Campus Market**, which is a mobile web platform for XJTLU 
 | `technology-choices.md` | The tools the team chose and the reason for each choice | 
 | `ui-spec.md` | Design system: colours, fonts, screen layouts, interaction patterns | 
 
----
+
 Notice: This folder is not include source code and file, you don't need to download anything, just click the link below and start to use our app. 
 Made by Miaoda Platform.
 Link: <https://www.miaoda.cn/projects/app-astq64ofw83l>
